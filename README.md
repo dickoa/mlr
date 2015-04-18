@@ -2,7 +2,7 @@
 ==========================
 
 * [Offical CRAN release site](http://cran.r-project.org/web/packages/mlr/)
-* [Detailed Tutorial](http://berndbischl.github.io/mlr/tutorial/html/) ([Download](http://berndbischl.github.io/mlr/tutorial/mlr_tutorial.zip))
+* [Detailed Tutorial](http://berndbischl.github.io/mlr/tutorial/html/) ([online](http://berndbischl.github.io/mlr/tutorial/html/), [download for offline usage](http://berndbischl.github.io/mlr/tutorial/mlr_tutorial.zip))
 * [R Documentation in HTML](http://www.rdocumentation.org/packages/mlr)
 * Install the development version
 
@@ -75,6 +75,11 @@ Most NEWS regarding extensions and changes of the packages can be accessed here 
   * We have improved the tutorial A LOT. It is also based on mkdocs and knitr now. Still fixing minor things and extending a bit. Take a look yourself.
   * We might refactor the internal handling and OO structure of tasks a bit, so even more natural indexing and operations are possible. Michel is currently working on this in a branch.
   * I will talk about mlr in connection with the [OpenML](http://www.openml.org) project next week. If you don't know this, take a look, a very cool initiative by Joaquin Vanschoren. We are developing a connector to R in general which also covers mlr [here](https://github.com/openml/r).
+
+
+Talks and Videos
+================
+* [Video](http://www.youtube.com/watch?v=rzjkT1uLNi4) of Bernd's "mlr + OpenML" talk at OpenML workshop 2014
 
 
 Get in Touch
